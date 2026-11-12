@@ -1,1 +1,58 @@
-# DSA_LAB
+# Data Structures and Algorithms (DSA) Lab
+
+## About
+This repository contains all the experiments and practical assignments completed as part of the **Data Structures and Algorithms (DSA) Laboratory** coursework.
+
+The experiments focus on understanding and implementing fundamental data structures and algorithms, along with their applications and operations.
+
+## Objectives
+- Understand fundamental concepts of Data Structures and Algorithms.
+- Implement different data structures using programming.
+- Develop problem-solving and logical thinking skills.
+- Understand the time and space complexity of algorithms.
+- Apply appropriate data structures to solve computational problems.
+
+## Experiments
+
+| Experiment No. | Experiment Name | Description |
+|---|---|---|
+| 1 | [Experiment Name] | [Brief description] |
+| 2 | [Experiment Name] | [Brief description] |
+| 3 | [Experiment Name] | [Brief description] |
+| 4 | [Experiment Name] | [Brief description] |
+| 5 | [Experiment Name] | [Brief description] |
+
+*The experiment list will be updated as more practicals are completed.*
+
+## Repository Structure
+
+```text
+DSA-Lab/
+│
+├── Experiment-01/
+│   └── program.c
+│
+├── Experiment-02/
+│   └── program.c
+│
+├── Experiment-03/
+│   └── program.c
+│
+└── README.md
+```
+
+## Technologies Used
+- Programming Language: C / C++
+- IDE: Visual Studio Code
+- Version Control: Git and GitHub
+
+## Learning Outcomes
+Through these experiments, I aim to develop a strong foundation in data structures, algorithm design, computational thinking, and efficient problem-solving.
+
+## Author
+**Vallari Vishalini Verma**
+
+B.Tech – Computer Science and Engineering
+
+## Acknowledgement
+This repository is maintained as part of the academic requirements of the Data Structures and Algorithms Laboratory.
