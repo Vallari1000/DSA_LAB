@@ -12,18 +12,6 @@ The experiments focus on understanding and implementing fundamental data structu
 - Understand the time and space complexity of algorithms.
 - Apply appropriate data structures to solve computational problems.
 
-## Experiments
-
-| Experiment No. | Experiment Name | Description |
-|---|---|---|
-| 1 | [Experiment Name] | [Brief description] |
-| 2 | [Experiment Name] | [Brief description] |
-| 3 | [Experiment Name] | [Brief description] |
-| 4 | [Experiment Name] | [Brief description] |
-| 5 | [Experiment Name] | [Brief description] |
-
-*The experiment list will be updated as more practicals are completed.*
-
 ## Repository Structure
 
 ```text
