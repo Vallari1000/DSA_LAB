@@ -18,13 +18,37 @@ The experiments focus on understanding and implementing fundamental data structu
 DSA-Lab/
 │
 ├── Experiment-01/
-│   └── program.c
+│   └── FIRST.C
+│   └── SECOND.C
+│   │
+│   │
+│
 │
 ├── Experiment-02/
-│   └── program.c
+│   └── FIRST.C
+│   └── SECOND.C
+│   │
+│   │
+│
 │
 ├── Experiment-03/
-│   └── program.c
+│    └── FIRST.C
+│    └── SECOND.C
+│    │
+│    │
+│
+│
+│
+│
+│
+│
+│
+│
+ Experiment-12/
+│    └── FIRST.C
+│    └── SECOND.C
+│    │
+│    │
 │
 └── README.md
 ```
